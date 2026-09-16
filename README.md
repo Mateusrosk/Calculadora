@@ -1,4 +1,4 @@
-# 🧮 Calculadora de Terminal em Java
+# Calculadora de Terminal em Java
 
 Uma aplicação de calculadora interativa via terminal desenvolvida em Java, focada em boas práticas de programação orientada a objetos e tratamento defensivo de erros.
 
