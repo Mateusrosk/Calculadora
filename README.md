@@ -2,7 +2,7 @@
 
 Uma aplicação de calculadora interativa via terminal desenvolvida em Java, focada em boas práticas de programação orientada a objetos e tratamento defensivo de erros.
 
-## ✨ Funcionalidades
+## Funcionalidades
 - Operações básicas: Soma, Subtração, Multiplicação e Divisão.
 - Validação contínua de entrada com tratamento de `InputMismatchException` (impede falhas caso o usuário digite texto em vez de números).
 - Validação explícita contra divisão por zero.
