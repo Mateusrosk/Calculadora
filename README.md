@@ -9,4 +9,4 @@ Uma aplicação de calculadora interativa via terminal desenvolvida em Java, foc
 - Uso de recursos modernos do Java (*Switch Expressions* e *Text Blocks*).
 
 ## 🛠️ Tecnologias Utilizadas
-- Java 17+ (ou a versão que você usou)
+- Java 25
